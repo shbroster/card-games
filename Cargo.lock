@@ -74,6 +74,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "shuffle"
+version = "0.1.0"
+dependencies = [
+ "rand",
+]
+
+[[package]]
 name = "top_trumps"
 version = "0.1.0"
 dependencies = [

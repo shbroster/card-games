@@ -2,4 +2,5 @@
 members = [
     "card",
     "top_trumps",
+    "shuffle",
 ]
