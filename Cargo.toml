@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "card",
+    "top_trumps",
+]
