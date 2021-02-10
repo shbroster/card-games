@@ -1,8 +1,7 @@
+use card::Card;
 use rand::rngs::StdRng;
 use rand::{Rng, SeedableRng};
 use std::collections::HashMap;
-
-use card::Card;
 
 struct TopTrumpCard {
     name: String,
