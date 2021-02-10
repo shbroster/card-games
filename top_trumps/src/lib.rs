@@ -17,7 +17,7 @@ enum TopTrumpCategory {
     Rating,
 }
 
-impl Card<TopTrumpCard> for TopTrumpCard {
+impl Card for TopTrumpCard {
     fn from_id(id: u8) -> TopTrumpCard {
         // Give the card some arbitrary name for now
         let name = id.to_string();
